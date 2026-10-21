@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "hikigai-epic-nonprod-e4acabca3a17685d",
+      "n": "j9CL4mxVvEef0tg9W7gMvd844ulnruW_xnR4zL-daMpv2js8WdEwCOycIQgVWlAj0k9sdk09dNVe3fzVUWI2lU4KEZ_diot4dWaGyJV8sxr4DKAhX9mR9DxDt4GWH8V9ryIAFebLkdcLrf7eGBs5w5Poj5My2iGyM1GP-KpcfWQ-bj72tHGoVZrYBhnNsxZPIUngDACwf7NCVwo6hXEsRQDasepCgVtpTE5AARkIK7cdr-UPRPHRku72ZLX60n7l7XI4Cv07hkdUXCjI5p_axSyPVAkT3F22EIj7DJzRdRnepC-leQy7tFEOPBPyPrwMwsqS6zWvj1LaUTN65O4RWCnKhdgd0pjGvf8G6BtVy4F4wxrjFwnEZOGXJy__qcvM17x4H2_jb9CBqijY5ygEzHkpxzZgoNURmtRTQuzgQKbXVMJa-CaOMOwtui5T97nLZV1Wt2ObJeeZKmhbDQjF-6IDm224Qx4rGxBIbE5NyVt9k3_jaIcetZHhKc25ob8L",
+      "e": "AQAB"
+    }
+  ]
+}
